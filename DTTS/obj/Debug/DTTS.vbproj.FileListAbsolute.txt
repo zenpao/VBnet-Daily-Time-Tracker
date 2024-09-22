@@ -1,0 +1,53 @@
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\bin\Debug\DTTS.exe.config
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\bin\Debug\DTTS.exe
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\bin\Debug\DTTS.pdb
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\bin\Debug\DTTS.xml
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.Resources.resources
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.vbproj.GenerateResource.Cache
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.exe
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.xml
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.pdb
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.DTR.resources
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.REG.resources
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.ACC.resources
+c:\users\zen\documents\visual studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.VIEW.resources
+C:\Users\Zen\Documents\Visual Studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.vbproj.ResolveComReference.cache
+C:\Users\Zen\Documents\Visual Studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.ChPASS.resources
+C:\Users\Zen\Documents\Visual Studio 2013\Projects\DTTS\DTTS\obj\Debug\DTTS.Abt.resources
+D:\Subjects\_SAMPLE^SOLUTIONS\VB.Net\Sample\DTTS\DTTS\bin\Debug\DTTS.exe.config
+D:\Subjects\_SAMPLE^SOLUTIONS\VB.Net\Sample\DTTS\DTTS\obj\Debug\DTTS.vbproj.ResolveComReference.cache
+D:\Subjects\_SAMPLE^SOLUTIONS\VB.Net\Sample\DTTS\DTTS\obj\Debug\DTTS.exe
+D:\Subjects\_SAMPLE^SOLUTIONS\VB.Net\Sample\DTTS\DTTS\obj\Debug\DTTS.xml
+D:\Subjects\_SAMPLE^SOLUTIONS\VB.Net\Sample\DTTS\DTTS\obj\Debug\DTTS.pdb
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\bin\Debug\DTTS.exe.config
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.vbproj.ResolveComReference.cache
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.exe
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.xml
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.pdb
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\bin\Debug\DTTS.exe
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\bin\Debug\DTTS.pdb
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\bin\Debug\DTTS.xml
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.Abt.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.ACC.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.ChPASS.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.DTR.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.REG.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.Resources.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.VIEW.resources
+C:\Users\Zen\Documents\Visual Studio 2012\Projects\DTTS\DTTS\obj\Debug\DTTS.vbproj.GenerateResource.Cache
+C:\DTR-Utility-master\DTTS\DTTS\bin\Debug\DTTS.exe.config
+C:\DTR-Utility-master\DTTS\DTTS\bin\Debug\DTTS.exe
+C:\DTR-Utility-master\DTTS\DTTS\bin\Debug\DTTS.pdb
+C:\DTR-Utility-master\DTTS\DTTS\bin\Debug\DTTS.xml
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.vbproj.ResolveComReference.cache
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.Abt.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.ACC.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.ChPASS.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.DTR.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.REG.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.Resources.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.VIEW.resources
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.vbproj.GenerateResource.cache
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.exe
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.xml
+C:\DTR-Utility-master\DTTS\DTTS\obj\Debug\DTTS.pdb
