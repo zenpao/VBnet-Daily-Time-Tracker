@@ -104,4 +104,4 @@ VBnet-Daily-Time-Tracker/
 
 ## License
 
-Not specified.
+Apache License 2.0
